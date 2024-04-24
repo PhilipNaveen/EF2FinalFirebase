@@ -1,2 +1,2 @@
 # EF2FinalFirebase
-Engineering Foundations 2 Final Project: This is the Way
+If any of you guys want to edit the This is the way mobile application before saturday, and edit the firebase, use this.
